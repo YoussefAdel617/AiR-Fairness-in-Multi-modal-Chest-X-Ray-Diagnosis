@@ -1,1 +1,3 @@
 data/
+densenet_finetuned.pth
+densenet_feature_based.pth
